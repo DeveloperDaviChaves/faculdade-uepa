@@ -9,9 +9,7 @@ Repositório com trabalhos e projetos de programação desenvolvidos durante a g
 Sou Davi Chaves, estudante de Engenharia de Software, com foco em **Engenharia de Dados**.
 
 - GitHub: [DeveloperDaviChaves](https://github.com/DeveloperDaviChaves)
-- LinkedIn: [Davi Chaves](www.linkedin.com/in/developer-davi-chaves
-
-)
+- LinkedIn: [Davi Chaves](www.linkedin.com/in/developer-davi-chaves)
 
 ## Projetos
 
